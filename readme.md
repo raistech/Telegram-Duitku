@@ -100,6 +100,9 @@ Setelah semua konfigurasi di dalam file kode selesai, Anda bisa menjalankan bot 
 ```bash
 python3 duitku_bot.py
 ```
+---
+
+![Contoh Tampilan Bot](https://github.com/raistech/Telegram-Duitku/blob/main/ss/Screen%20Shot%202025-06-21%20at%2016.26.53.png)
 
 ---
 
