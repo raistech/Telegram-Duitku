@@ -3,6 +3,8 @@
 Selamat datang di repository Bot Toko Digital "Catatan Pena"! Ini adalah sebuah bot Telegram canggih yang dirancang untuk mengotomatiskan penjualan produk digital (seperti e-book) dari awal hingga akhir. Bot ini dibangun menggunakan Python dengan framework `python-telegram-bot` dan diintegrasikan dengan payment gateway Duitku.
 
 ![Contoh Tampilan Bot](https://cdn.araii.id/a.jpeg)
+
+
 *(Anda bisa mengganti gambar di atas dengan screenshot atau GIF demo dari bot Anda)*
 
 ---
