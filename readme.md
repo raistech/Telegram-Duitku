@@ -50,7 +50,7 @@ Berikut adalah langkah-langkah untuk menjalankan bot ini di server Anda.
 ### 2. Instalasi
 Clone repository ini ke server Anda:
 ```bash
-git clone [https://github.com/raistech/Telegram-Duitku.git](https://github.com/raistech/Telegram-Duitku.git)
+git clone https://github.com/raistech/Telegram-Duitku.git
 cd Telegram-Duitku
 ```
 
