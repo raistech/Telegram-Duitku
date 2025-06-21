@@ -8,7 +8,7 @@ Selamat datang di repository Bot Toko Digital "Catatan Pena"! Ini adalah sebuah 
 *(Anda bisa mengganti gambar di atas dengan screenshot atau GIF demo dari bot Anda)*
 
 ---
-![Contoh Tampilan Bot]([https://cdn.araii.id/a.jpeg](https://github.com/raistech/Telegram-Duitku/blob/main/ss/2025-06-21%2016.11.15.jpg))
+![Contoh Tampilan Bot](https://github.com/raistech/Telegram-Duitku/blob/main/ss/2025-06-21%2016.11.15.jpg)
 ![Contoh Tampilan Bot](https://cdn.araii.id/a.jpeg)
 ![Contoh Tampilan Bot](https://cdn.araii.id/a.jpeg)
 ![Contoh Tampilan Bot](https://)
