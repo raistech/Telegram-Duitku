@@ -9,9 +9,9 @@ Selamat datang di repository Bot Toko Digital "Catatan Pena"! Ini adalah sebuah 
 
 ---
 ![Contoh Tampilan Bot](https://github.com/raistech/Telegram-Duitku/blob/main/ss/2025-06-21%2016.11.15.jpg)
-![Contoh Tampilan Bot](https://cdn.araii.id/a.jpeg)
-![Contoh Tampilan Bot](https://cdn.araii.id/a.jpeg)
-![Contoh Tampilan Bot](https://)
+![Contoh Tampilan Bot](https://github.com/raistech/Telegram-Duitku/blob/main/ss/2025-06-21%2016.11.25.jpg)
+![Contoh Tampilan Bot](https://github.com/raistech/Telegram-Duitku/blob/main/ss/2025-06-21%2016.11.38.jpg)
+![Contoh Tampilan Bot](https://github.com/raistech/Telegram-Duitku/blob/main/ss/2025-06-21%2016.11.50.jpg)
 ---
 
 ## ✨ Fitur Utama
