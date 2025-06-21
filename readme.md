@@ -96,6 +96,8 @@ Setelah semua konfigurasi di dalam file kode selesai, Anda bisa menjalankan bot 
 python3 duitku_bot.py
 ```
 
+---
+
 📝 Lisensi
 Proyek ini dilisensikan di bawah MIT License.
 
