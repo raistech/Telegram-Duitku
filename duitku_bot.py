@@ -35,7 +35,7 @@ DUITKU_API_KEY = "GANTI_DENGAN_API_KEY_ANDA"
 YOUR_SERVER_URL = "GANTI_DENGAN_URL_SERVER_ANDA" 
 DUITKU_API_URL = "https://passport.duitku.com/webapi/api/merchant/v2/inquiry"
 DUITKU_STATUS_API_URL = "https://passport.duitku.com/webapi/api/merchant/transactionStatus"
-ADMIN_USERNAME = "Araii_Bot" #username telegram tanpa '@'
+ADMIN_USERNAME = "AraiiXBot" #username telegram tanpa '@'
 PRODUCTS_PER_PAGE = 4
 
 # --- AKTIFKAN NOBU QRIS PAYMENT METHOD DI DASHBOARD DUITKU ---
